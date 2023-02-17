@@ -7,7 +7,7 @@ Bibliothèques en imports.
 ## Installation
 - Clonez le projet sur votre machine locale
 - Ouvrez un terminal et naviguez jusqu'au répertoire du projet
-- Installez les bibliothèques requises avec la commande pip install -r requirements.txt
+- Installez les bibliothèques requises avec la commande pip install -r requirements.txt si possible
 - Lancez le programme avec la commande python main.py
 ## Utilisation
 Lancer main.py modifié avec un chemin de dossier personnalisé pour la comparaison des fichiers stl
