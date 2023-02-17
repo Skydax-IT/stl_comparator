@@ -2,8 +2,8 @@
 Comparateur de fichiers STL selon des métriques précises
 
 ## Prérequis
-Python 3.x
-Bibliothèques en imports
+Python 3.x.
+Bibliothèques en imports.
 ## Installation
 - Clonez le projet sur votre machine locale
 - Ouvrez un terminal et naviguez jusqu'au répertoire du projet
