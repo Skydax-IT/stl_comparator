@@ -5,9 +5,9 @@ STL file comparator based on specific metrics. Algorithmic explanation version, 
 Python 3.x.
 
 ## Installation
-Clone the project to your local machine
-Open a terminal and navigate to the project directory
-Install required libraries with the command pip install -r requirements.txt if possible
+- Clone the project to your local machine
+- Open a terminal and navigate to the project directory
+- Install required libraries with the command pip install -r requirements.txt
 
 ## Get started
 Run main.py modified with a customized folder path for the STL file comparison.
