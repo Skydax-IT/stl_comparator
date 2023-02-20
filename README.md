@@ -1,19 +1,19 @@
 # stl_comparator
-Comparateur de fichiers STL selon des métriques précises
+STL file comparator based on specific metrics. Algorithmic explanation version, not contractual to the final version on the AerOptiData application.
 
-## Prérequis
+## Prerequisites
 Python 3.x.
-Bibliothèques en imports.
-## Installation
-- Clonez le projet sur votre machine locale
-- Ouvrez un terminal et naviguez jusqu'au répertoire du projet
-- Installez les bibliothèques requises avec la commande pip install -r requirements.txt si possible
-- Lancez le programme avec la commande python main.py
-## Utilisation
-Lancer main.py modifié avec un chemin de dossier personnalisé pour la comparaison des fichiers stl
 
-## Auteur
+## Installation
+Clone the project to your local machine
+Open a terminal and navigate to the project directory
+Install required libraries with the command pip install -r requirements.txt if possible
+
+## Get started
+Run main.py modified with a customized folder path for the STL file comparison.
+
+## Author
 Enzo "Skydax-IT" Licata
 
-## Licence
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
